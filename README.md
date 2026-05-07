@@ -48,12 +48,12 @@ The network consists of:
 ---
 
 ### 🔷 EC2 Instance Overview
-![Instances Overview](assets/instances-overview.png)
+![Instances Overview](assets/Instances-overview.png)
 
 ---
 
 ### 🔷 EC2 Connection (SSH / Console)
-![Instances Connection](assets/instances-connection.png)
+![Instances Connection](assets/Instances-connection.png)
 
 ---
 
